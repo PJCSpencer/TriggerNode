@@ -5,4 +5,4 @@
 </p>
 
 # About
-An implementation of a general purpose trigger node written in Swift 4.0 which I use in my SceneKit projects.
+An implementation of a general purpose trigger node written in Swift 4.0. Supports KVO using typed custom handlers.
